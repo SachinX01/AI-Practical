@@ -10,10 +10,6 @@ Welcome to the `AI-Practical` repository! This repository is designed for the pr
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Running the Demos](#running-the-demos)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
